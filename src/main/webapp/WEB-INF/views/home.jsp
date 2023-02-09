@@ -9,6 +9,7 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<a href="rainbow">red Page</a><br><br>
+<a href="board/content">content Page</a>
 </body>
 </html>
